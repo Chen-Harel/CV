@@ -1,0 +1,14 @@
+html, body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.listDesign{
+    list-style: none;
+}
